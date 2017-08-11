@@ -3,7 +3,18 @@ writeup_template.md
 lenet.meta
 lenet.index
 lenet.data-00000-of-00001
+<<<<<<< HEAD
 customnet.ckpt.data-00000-of-00001
 customnet.ckpt.index
 customnet.ckpt.meta
 
+=======
+customnet.data-00000-of-00001
+customnet.index
+customnet.meta
+customnet-v2.data-00000-of-00001
+customnet-v2.index
+customnet-v2.meta
+.ipynb_checkpoints/
+checkpoint
+>>>>>>> aab5e4b125b54142c8232833916aa5941242270c
