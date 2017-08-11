@@ -3,5 +3,8 @@ writeup_template.md
 lenet.meta
 lenet.index
 lenet.data-00000-of-00001
+customnet.data-00000-of-00001
+customnet.index
+customnet.meta
 .ipynb_checkpoints/
 checkpoint
