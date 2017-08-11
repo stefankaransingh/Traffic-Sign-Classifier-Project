@@ -6,5 +6,8 @@ lenet.data-00000-of-00001
 customnet.data-00000-of-00001
 customnet.index
 customnet.meta
+customnet-v2.data-00000-of-00001
+customnet-v2.index
+customnet-v2.meta
 .ipynb_checkpoints/
 checkpoint
