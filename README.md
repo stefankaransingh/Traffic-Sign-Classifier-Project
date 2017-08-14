@@ -171,6 +171,8 @@ The following images were downloaded from the Web and resized and feed into the 
 
 ![Images download from the web](reference-images/downloaded-images.png)
 
+The above images are of high quality and the images can be clearly seen, however when resized/reshaped to 32x32x3, some of the information in the image maybe be lost and thereby reducing prediction accuracy of the model. Another problem that could be foreseen is the low prediction accuracy for the General caution traffic sign as it consists of another sign board right below it.
+
 
 The overall accuracy of the model in predicting the traffic signs for the five images is 20%. However this does not give a comprehensive overview of the performance of the model.
 
